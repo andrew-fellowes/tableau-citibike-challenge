@@ -16,4 +16,6 @@ I created two interactive 'Vizs' in a Tableau Story to present my analysis. I cr
 - https://www.hobokengirl.com
 - https://i.insider.com
 
-You can visit my interactive dashboard at [my Tableau Public profile page](https://public.tableau.com/views/JC2022CitiBikeRideData/JC2022Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+You can visit my Citi Bike interactive dashboard at [my Tableau Public profile page](https://public.tableau.com/views/JC2022CitiBikeRideData/JC2022Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+![screenshot](screenshot.png)
